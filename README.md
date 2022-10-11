@@ -1,2 +1,2 @@
-# json-flattner-test
-Json flattner test along with Vertx. Comparison with JsonPath DocumentContext
+# redesigned-json-evaluatepath
+Vertx Document Context and JsonFlattner POC
